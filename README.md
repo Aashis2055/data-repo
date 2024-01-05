@@ -15,3 +15,9 @@
     - adverbs
     - nouns
     - verbs
+
+4. timezones: list of timezones
+    - timezone (json)
+
+5. animals: 
+    - animals (json)
